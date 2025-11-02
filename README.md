@@ -40,6 +40,7 @@
 
 -  Achieved **99.98%** accuracy for predicting solar energy using weather data at TechRush'25
 -  Solely designed and developed a complete **production-grade ML backend** for **Smart India Hackathon 2025 (SIH’25)**. 
+-  Secured **3rd** place in Pulzion '25 - DataQuest, organized by PICT ACM Student Chapter (PASC), for developing a high-performing classification model evaluated using Macro F1 Score.
 -  Completed **ML Specialization** by Andrew Ng
 -  Represented my house at inter-school competition in football
 
