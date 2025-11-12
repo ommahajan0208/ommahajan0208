@@ -9,8 +9,8 @@
 
 <!-- Contact -->
 <p align="center">
-  <a href="mailto:ommahajan0208@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/om-mahajan-1092b232a/">💼 LinkedIn</a> •
+  <a href="mailto:ommahajan0208@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/om-mahajan-1092b232a/">💼 LinkedIn</a> 
 </p>
 
 
@@ -19,7 +19,7 @@
  Second Year AIDS @ PICT (CGPA: 9.325)  
  MHT-CET: 99.01%  
  ML | AI | Deep Learning    
- 50+ Problems on [LeetCode](https://leetcode.com/u/ommahajan0208/) 
+ 100+ Problems on [LeetCode](https://leetcode.com/u/ommahajan0208/) 
   
 
 
