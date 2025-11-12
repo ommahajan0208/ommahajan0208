@@ -11,7 +11,6 @@
 <p align="center">
   <a href="mailto:ommahajan0208@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/om-mahajan-1092b232a/">💼 LinkedIn</a> •
-  <a href="https://drive.google.com/file/d/1eAG8b1UecVwl7MQK5pJU91_v1rznPsTI/view?usp=drivesdk">📄 Resume</a>
 </p>
 
 
