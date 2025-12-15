@@ -16,7 +16,7 @@
 
 ##  About Me
 
- Second Year AIDS @ PICT (CGPA: 9.325)  
+ Second Year AIDS @ PICT (CGPA: 9.33)  
  MHT-CET: 99.01%  
  ML | AI | Deep Learning    
  100+ Problems on [LeetCode](https://leetcode.com/u/ommahajan0208/) 
