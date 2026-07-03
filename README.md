@@ -127,7 +127,7 @@ Macro-F1 of **0.9424** on a 3-class AQI classification (Good/Moderate/Poor) via 
 
 3-course series by Andrew Ng covering supervised learning (linear/logistic regression, SVMs, decision trees, ensemble methods), unsupervised learning (clustering, anomaly detection, recommender systems), and an introduction to reinforcement learning. Emphasis on practical implementation and intuition behind core ML algorithms.
 
-[![Credential](https://img.shields.io/badge/Credential-View%20Certificate-0a0a0a?style=flat-square&logo=coursera&logoColor=white)](#)
+[![Credential](https://img.shields.io/badge/Credential-View%20Certificate-0a0a0a?style=flat-square&logo=coursera&logoColor=white)](https://learn.deeplearning.ai/certificates/9992be46-bcaf-4205-834a-6d5d5537f85a?usp=sharing)
 
 ---
 
@@ -136,7 +136,7 @@ Macro-F1 of **0.9424** on a 3-class AQI classification (Good/Moderate/Poor) via 
 
 5-course series by Andrew Ng covering the full deep learning stack, neural network foundations, hyperparameter tuning and regularization, structuring ML projects, convolutional networks (CNNs for image recognition and detection), and sequence models (RNNs, LSTMs, GRUs, attention mechanisms, Transformers). Applied across computer vision, NLP, and speech recognition tasks.
 
-[![Credential](https://img.shields.io/badge/Credential-View%20Certificate-0a0a0a?style=flat-square&logo=coursera&logoColor=white)](#)
+[![Credential](https://img.shields.io/badge/Credential-View%20Certificate-0a0a0a?style=flat-square&logo=coursera&logoColor=white)](https://learn.deeplearning.ai/certificates/1113c83f-e2e6-4656-a0fb-672db468b095?usp=sharing)
 
 ---
 
